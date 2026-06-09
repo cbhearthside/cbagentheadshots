@@ -1,0 +1,4 @@
+Mark Khan headshot.jpeg                            -> 	Mark-Khan-Headshot.jpeg
+Michael Patrick.png                                -> 	Michael-Patrick.png
+Nathan Wren.jpg                                    -> 	Nathan-Wren.jpg
+Paige Patrick.png                                  -> 	Paige-Patrick.png

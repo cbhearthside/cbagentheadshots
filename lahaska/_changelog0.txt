@@ -1,0 +1,44 @@
+7147237.jpg                                        -> 	.jpg
+Anthony Merlino_2 v2.jpg                           -> 	Anthony-Merlino-V.jpg
+Christine Manion - headshot.jpg                    -> 	Christine-Manion-Headshot.jpg
+Christy Manetta.jpg                                -> 	Christy-Manetta.jpg
+Dan Golden (1 of 1).jpg                            -> 	Dan-Golden.jpg
+Dottie Jakuboski.JPG                               -> 	Dottie-Jakuboski.JPG
+Douglas Krautheim Headshot copy.jpg                -> 	Douglas-Krautheim-Headshot-Copy.jpg
+Elisa Collaro - headshot.jpeg                      -> 	Elisa-Collaro-Headshot.jpeg
+Elizabeth Roche.jpg                                -> 	Elizabeth-Roche.jpg
+Frank Dolski Cropped smaller.jpg                   -> 	Frank-Dolski-Cropped-Smaller.jpg
+Frank Dolski Cropped.jpg                           -> 	Frank-Dolski-Cropped.jpg
+Frank Dolski.jpg                                   -> 	Frank-Dolski.jpg
+Halli Eckhoff - headshot - cleaned up.png          -> 	Halli-Eckhoff-Headshot-Cleaned-Up.png
+Halli Eckhoff 1.png                                -> 	Halli-Eckhoff.png
+Halli Eckhoff August 2019.jpg                      -> 	Halli-Eckhoff-August.jpg
+Halli Eckhoff.png                                  -> 	Halli-Eckhoff-1.png
+Jacquie Sjostedt - Lahaska.jpg                     -> 	Jacquie-Sjostedt-Lahaska.jpg
+Jim Finn (1 of 1).jpg                              -> 	Jim-Finn.jpg
+Jim Finn.jpg                                       -> 	Jim-Finn-1.jpg
+Jim McCarthy.jpg                                   -> 	Jim-McCarthy.jpg
+Joe DeVenuto.jpg                                   -> 	Joe-DeVenuto.jpg
+Kevin Cole Headshot Coldwell Banker.jpg            -> 	Kevin-Cole-Headshot-Coldwell-Banker.jpg
+Laura Miller.jpg                                   -> 	Laura-Miller.jpg
+Laura Miller.png                                   -> 	Laura-Miller-1.png
+Leslie Balzer (1).jpg                              -> 	Leslie-Balzer.jpg
+Leslie Balzer (large).jpg                          -> 	Leslie-Balzer-Large.jpg
+Leslie Balzer.jpg                                  -> 	Leslie-Balzer-1.jpg
+Leslie-Balzer-Large.jpg                            -> 	Leslie-Balzer-Large.jpg
+Leslie-Balzer.jpg                                  -> 	Leslie-Balzer-2.jpg
+Linda Mohr HS1use.jpg                              -> 	Linda-Mohr-HSuse.jpg
+Linda Mohr.JPG                                     -> 	Linda-Mohr.JPG
+Mark Haus headshot.jpg                             -> 	Mark-Haus-Headshot.jpg
+Michelle Gromilovitz - headshot.jpg                -> 	Michelle-Gromilovitz-Headshot.jpg
+Michelle Ventresca.jpg                             -> 	Michelle-Ventresca.jpg
+Monica Sharma - high rez.jpg                       -> 	Monica-Sharma-High-Rez.jpg
+Monica Sharma - low rez pic..jpg                   -> 	Monica-Sharma-Low-Rez-Pic.jpg
+Nicole V..jpg                                      -> 	Nicole-V.jpg
+Nicole Visniski Headshot - Web Size-.jpg           -> 	Nicole-Visniski-Headshot-Web-Size.jpg
+Sheila Wilson Kitchen cropped.jpg                  -> 	Sheila-Wilson-Kitchen-Cropped.jpg
+Sheila Wilson Kitchen.jpg                          -> 	Sheila-Wilson-Kitchen.jpg
+Sheila Wilson Logo.jpg                             -> 	Sheila-Wilson-Logo.jpg
+Sheila Wilson plain.jpg                            -> 	Sheila-Wilson-Plain.jpg
+sheilakitchen2 (cropped).JPG                       -> 	Sheilakitchen-Cropped.JPG
+sheilakitchen2.JPG                                 -> 	Sheilakitchen.JPG
